@@ -3,8 +3,10 @@ Due date: July 11 at 6pm
 
 ## Story Ideas
 
-1. 
-1.
+1. Do NBA players who make the cover of the game NBA 2K stay or leave their current team in free agency? 
+   * The answer right now would be yes. I want this story to be more of a broader free agency story, but also include information about the game title, which has become one of the more popular sports titles in recent years. In the last four out of five years, every standard cover athlete abandoned his current team. I've wondered this for quite some time, but when I saw [this story](https://onmilwaukee.com/sports/articles/bucks-giannis-antetokounmpo-nba2k-cover.html) briefly mention it in the coming Giannis cover. Although it's small, I think it's definitely a unique story angle.
+1. Are women that play sports (professional, collegiate, or high school) better executives and leaders in business? 
+   * This [story](http://www.businessinsider.com/playing-sports-is-secret-to-womens-success-2014-10) presents interesting findings between women, sports and leadership. The accompanying graphic with data by espnW and EY Womens Athletes Business Network shows the responses from a poll that they conducted about how the lessons women learn in sports translate well into business. I think this story is fascinating because more and more we see women in leadership positions about major companies like HP, PepsiCo and Sunoco.
 
 ## [Story Critique](https://fivethirtyeight.com/features/were-divided-on-patriotism-too/)
 
