@@ -3,7 +3,10 @@ Due date: July 11 at 6pm
 
 ## Story Ideas
 
-## [Story](https://fivethirtyeight.com/features/were-divided-on-patriotism-too/) Critique
+1. 
+1.
+
+## [Story Critique](https://fivethirtyeight.com/features/were-divided-on-patriotism-too/)
 
 ### Objective: Clarity and accuracy
 
@@ -22,7 +25,7 @@ They provided sources for all of their data, as well as, they explained everythi
 
 I believe the story is a 4/5 on how it is presented to the viewer. The graphs stayed along the lines of patriotic colors and the style of the language is very easy to follow. I felt like anyone could read and follow along easily. I think that all of these tasks were definitely accomplished by the story. The Trump Approval and Generic Ballot information could have been left off because those kind of took away from the story I believe.
 
-### Objective: Type and color (if piece includes graphics)
+### Objective: Type and color
 
 On a scale of 1-5, I would give type a 5. It is consistent throughout the piece. It's very easy to distinguish the headline from the rest of the text. 
 On a scale of 1-5, I would give color a 3. The red and blue concept worked. I didn't like the green and orange on the Trump Approval because I just didn't get it. It felt like the Independents bar was lost on the second graphic. Although a small share of people are Independents, I still think the color should pop enough that it doesn't get lost in the graphic's grid. 
