@@ -9,3 +9,6 @@ This [Dataset](https://drive.google.com/file/d/1ITEuuhVdQACK4gFQMVWj0gp0QmiFBi8k
 2. Scan and Remove Duplicates
 
 # Headline with Nut Graf
+
+### How NBA Players are Redefining Early Retirement
+At the end of the 2017-2018 season, nearly 10 NBA stars declared their official retirement from the professional sport. While numerous factors, such as lack of production or fewer minutes, could have contributed to the decision, one common denominator is their age. According to a dataset by Addison Gauss, a total of 476 players are listed, but only 39 are above the age of 35 with Manu Ginobli being one of the oldest at 38, as of the 2015-16 season.
