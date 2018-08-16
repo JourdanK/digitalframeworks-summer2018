@@ -11,6 +11,6 @@ In order to find my story, I did the following:
 
 Headline: NFLPA Politicial Donations Favor Republicans, Nearly Double Amount to Democrats 
 
-Nut graf: In February Tom Brady and other NFL players announced a decision to become more deeply involved with the political system through the NFLPA One Team PAC. Players from across the League donated between $225 and $5000, adding up to over $700,000. 
+Nut graf: In February Tom Brady and other NFL players announced a decision to become more deeply involved with the political system through the NFLPA One Team PAC. Players from across the League donated between $225 and $5000, totaling over $700,000. 
 
 According to the Federal Election Commission, the initial disbursement of $27,700 in May went in large part to Republican Congressional candidates. 
