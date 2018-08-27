@@ -59,3 +59,9 @@ NBA 2K gives gamers an opportunity to play as any NBA player offline or online a
 In the past, the game also provided special giveaways and perks for the best players in the world to win and be recognized on its one-of-a-kind NBA 2KTV.
 
 The next title “NBA 2K19” debuts September 11 for the Standard Edition and the LeBron James’ 20th Anniversary Edition drops four days early on September 7.
+
+
+DATA VISUALIZATION IDEAS:
+1. Name the Game: 
+   - [A type of "news" game.](https://cdn.knightlab.com/libs/juxtapose/latest/embed/index.html?uid=13b8cecc-aa04-11e8-9dba-0edaf8f81e27) Challenge readers to see how many of the games they can get correct knowing only the athlete. This is the format.
+2. 
